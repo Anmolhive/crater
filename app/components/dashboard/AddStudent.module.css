@@ -1,0 +1,16 @@
+.bgBlackBlur {
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(1rem);
+  -webkit-backdrop-filter: blur(1rem);
+}
+
+.bgBlur {
+  backdrop-filter: blur(100px);
+  -webkit-backdrop-filter: blur(100px);
+}
+
+.customSelectOptions option{
+    padding: 1rem;
+    border-radius: 1rem;
+    /* background-color: rgba(0, 0, 0, 0.8); */
+}

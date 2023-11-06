@@ -1,0 +1,64 @@
+.expandSidebar {
+    width: 4.5rem;
+    max-width: 100%;
+    overflow: hidden;
+    transition: width 0.3s ease;
+}
+
+.expandSidebar:hover {
+    width: 15rem;
+    max-width: 100%;
+}
+
+.buttonText {
+    display: none;
+    white-space: nowrap;
+}
+
+.expandSidebar:hover .buttonText {
+    display: inline-block;
+}
+
+.buttonActive svg path{
+    fill: #6366f1;
+}
+
+.buttonActive .buttonText {
+    color: #6366f1;
+}
+
+.sidebarBtn :is(.buttonText, svg path) {
+    transition: all 200ms linear;
+}
+
+.sidebarBtn:hover .buttonText {
+    color: #f43f5e;
+}
+
+.sidebarBtn:hover svg path {
+    fill: #f43f5e;
+}
+
+.customScrollBar {
+    --scroll-bar-border-radius: .3rem;
+}
+
+.customScrollBar::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: var(--scroll-bar-border-radius);
+	background-color: #F5F5F5;
+}
+
+.customScrollBar::-webkit-scrollbar
+{
+	width: .4rem;
+	background-color: #F5F5F5;
+}
+
+.customScrollBar::-webkit-scrollbar-thumb
+{
+	border-radius: var(--scroll-bar-border-radius);
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #000;
+}
