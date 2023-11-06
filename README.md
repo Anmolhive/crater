@@ -36,7 +36,7 @@ Follow these steps to get started with Crater:
 1. **Clone the Repository**: Clone the Crater repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/your-username/crater.git
+   git clone https://github.com/Anmolhive/crater.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies.
