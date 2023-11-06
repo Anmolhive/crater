@@ -2,7 +2,7 @@
 import React, { useState, ChangeEvent, FormEvent } from "react";
 import { format, subYears } from "date-fns";
 import Styles from "./AddStudent.module.css";
-import Aleart from "../aleart/Aleart";
+import Aleart from "../../Aleart/Aleart";
 
 type Prop = {
   data: {

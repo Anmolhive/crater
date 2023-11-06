@@ -1,8 +1,8 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import EditStuden from "./EditStuden";
+import EditStuden from "../EditStudent/EditStudent";
 import Styles from "./ViewStudents.module.css";
-import Aleart from "../aleart/Aleart";
+import Aleart from "../../Aleart/Aleart";
 
 const ViewStudents = () => {
   type Value = {

@@ -1,6 +1,6 @@
 import React from 'react'
-import Dashboard from '../components/dashboard/Dashboard'
-import AddStudent from '../components/dashboard/AddStudent'
+import Dashboard from '../components/Dashboard/Dashboard'
+import AddStudent from '../components/Dashboard/AddStudent/AddStudent'
 
 const page = () => {
   return (

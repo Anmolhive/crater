@@ -1,6 +1,6 @@
 import React, { ReactNode } from "react";
 import Styles from "./Dashboard.module.css";
-import AddStudent from "./AddStudent";
+import AddStudent from "./AddStudent/AddStudent";
 import Link from "next/link";
 
 type Prop = {
