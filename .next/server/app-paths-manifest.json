@@ -1,4 +1,12 @@
 {
-  "/not-found": "app/not-found.js",
-  "/page": "app/page.js"
+  "/_not-found": "app/_not-found.js",
+  "/addstudent/page": "app/addstudent/page.js",
+  "/api/deletestudent/route": "app/api/deletestudent/route.js",
+  "/api/getstudents/route": "app/api/getstudents/route.js",
+  "/api/insertstudent/route": "app/api/insertstudent/route.js",
+  "/api/updatestudent/route": "app/api/updatestudent/route.js",
+  "/api/validateuser/route": "app/api/validateuser/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/viewstudents/page": "app/viewstudents/page.js"
 }

@@ -1,21 +1,45 @@
 {
   "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-36b2016ea9e369a4.js",
+      "static/chunks/fd9d1056-71a9be26d6d80af3.js",
+      "static/chunks/472-1c0681300a04b223.js",
+      "static/chunks/main-app-687a3344c249338c.js",
+      "static/chunks/app/_not-found-1187c250942edf8e.js"
+    ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-36b2016ea9e369a4.js",
+      "static/chunks/fd9d1056-71a9be26d6d80af3.js",
+      "static/chunks/472-1c0681300a04b223.js",
+      "static/chunks/main-app-687a3344c249338c.js",
+      "static/css/970574b258c84d86.css",
+      "static/chunks/app/layout-1b78d6dd9293f832.js"
+    ],
+    "/addstudent/page": [
+      "static/chunks/webpack-36b2016ea9e369a4.js",
+      "static/chunks/fd9d1056-71a9be26d6d80af3.js",
+      "static/chunks/472-1c0681300a04b223.js",
+      "static/chunks/main-app-687a3344c249338c.js",
+      "static/chunks/697-714e34afcb606eca.js",
+      "static/css/ce0f8c5112f7245a.css",
+      "static/chunks/app/addstudent/page-137ad072e9538c93.js"
     ],
     "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/page.css",
-      "static/chunks/app/page.js"
+      "static/chunks/webpack-36b2016ea9e369a4.js",
+      "static/chunks/fd9d1056-71a9be26d6d80af3.js",
+      "static/chunks/472-1c0681300a04b223.js",
+      "static/chunks/main-app-687a3344c249338c.js",
+      "static/css/e5d420c26d392440.css",
+      "static/chunks/app/page-3346ae6ade172df9.js"
     ],
-    "/not-found": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/not-found.js"
+    "/viewstudents/page": [
+      "static/chunks/webpack-36b2016ea9e369a4.js",
+      "static/chunks/fd9d1056-71a9be26d6d80af3.js",
+      "static/chunks/472-1c0681300a04b223.js",
+      "static/chunks/main-app-687a3344c249338c.js",
+      "static/chunks/697-714e34afcb606eca.js",
+      "static/css/9737ed869a729e55.css",
+      "static/chunks/app/viewstudents/page-e12def43dd160b45.js"
     ]
   }
 }
